@@ -115,7 +115,7 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=revolalex&show_icons=true&locale=en&layout=compact"
         alt="revolalex" />
 </p>
-<p>&nbsp;
+<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=revolalex&show_icons=true&locale=en"
         alt="revolalex" />
 </p>
